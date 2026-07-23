@@ -53,8 +53,8 @@ BEGIN
 	PRINT('--------------------------------------------------------');
 
 	SET @start_time = GETDATE();
-	PRINT('.... Truncating the bronze.crm_cust_info table');
-	TRUNCATE TABLE bronze.crm_cust_info;
+	PRINT('.... Truncating the bronze.crm_prd_info');
+	TRUNCATE TABLE bronze.crm_prd_info;
 
 	PRINT('.... Bulk inserting Data into: bronze.crm_prd_info');
 	BULK INSERT bronze.crm_prd_info
