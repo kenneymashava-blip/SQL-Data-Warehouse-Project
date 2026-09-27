@@ -18,6 +18,7 @@ Usage Notes:
 -- ====================================================================
 -- Checking 'gold.dim_customers'
 -- ====================================================================
+
 -- Check for Uniqueness of Customer Key in gold.dim_customers
 -- Expectation: No results 
 SELECT 
@@ -30,6 +31,7 @@ HAVING COUNT(*) != 1;
 -- ====================================================================
 -- Checking 'gold.product_key'
 -- ====================================================================
+
 -- Check for Uniqueness of Product Key in gold.dim_products
 -- Expectation: No results 
 SELECT 
