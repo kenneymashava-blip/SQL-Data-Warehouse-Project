@@ -14,7 +14,8 @@ Script Purpose:
 			transform and join tables from the silver layer to produce
 			the final: cleaned, enriched and bussiness ready dataset.
 Usage:
-	These views may be querried directly for data analytics and reporting.
+	Run this cript after performing the Data Quality Checks of the Silver Layer.
+	These views may be querried directly for data analytics,reporting and building dashboards.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 */
 
