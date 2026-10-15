@@ -32,4 +32,4 @@ Whereas, the Advanced Data Analysis includes:
 - Change-Over-Time Analysis
 - Part-to-whole Analysis
 - Data segmentation
-- Reporting
+- Reporting: whereby SQL **Customer_Report View** and **Product_report View** are developed
