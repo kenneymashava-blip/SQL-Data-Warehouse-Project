@@ -16,8 +16,9 @@ SQL Data Warehouse development showcases the following:
 
 ## SQL Exploratory Data Analysis(EDA) and Advanced Data Analysis
 
-This section is concerned with performing Exploratory Data Analysis(EDA) and Advanced Data Analysi using the **Dimension_Product View, Dimension_Customer View and Fact View**  developed in the Data Warehouse development section.
-The Exploratory Data Analysis(EDA) section showcases the following:
+This section is concerned with performing Exploratory Data Analysis(EDA) and Advanced Data Analysis using the **Dimension_Product View, Dimension_Customer View and Fact View**  developed in the Data Warehouse development section.
+
+The Exploratory Data Analysis(EDA) subsection showcases the following:
 - Database Exploration
 - Dimensions Exploration
 - Dates exploration
@@ -25,7 +26,7 @@ The Exploratory Data Analysis(EDA) section showcases the following:
 - Magnitude
 - Ranking
 
-The Advanced Data Analysis incudes:
+Whereas, the Advanced Data Analysis includes:
 - Cummulative Analysis
 - Perfomance Analysis
 - Change-Over-Time Analysis
