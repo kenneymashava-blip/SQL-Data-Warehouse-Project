@@ -24,6 +24,7 @@ The Exploratory Data Analysis(EDA) section showcases the following:
 - Measures
 - Magnitude
 - Ranking
+
 The Advanced Data Analysis incudes:
 - Cummulative Analysis
 - Perfomance Analysis
